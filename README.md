@@ -18,4 +18,5 @@
     jupyter notebook modeling.ipynb  
     jupyter notebook external_validation.ipynb  
     jupyter notebook visualization.ipynb
-   Dependencies include Python 3.8+, pandas, scikit-learn, XGBoost, matplotlib, and SHAP.
+   
+Dependencies include Python 3.8+, pandas, scikit-learn, XGBoost, matplotlib, and SHAP.
